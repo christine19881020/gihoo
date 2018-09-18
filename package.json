@@ -1,0 +1,19 @@
+{
+  "name": "gihoo",
+  "version": "1.0.0",
+  "description": "npm component try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christine19881020/gihoo.git"
+  },
+  "author": "zdy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christine19881020/gihoo/issues"
+  },
+  "homepage": "https://github.com/christine19881020/gihoo#readme"
+}
